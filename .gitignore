@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+node_modules/
+dist/
+test-results/
+playwright-report/
+.agents/
+.env
+data/*.duckdb
+data/*.duckdb.lock
+.DS_Store

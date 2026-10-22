@@ -1,0 +1,28 @@
+:root {
+  font-family: system-ui, sans-serif;
+  color: #172033;
+  background: #f4f6fa;
+}
+
+body {
+  margin: 0;
+}
+
+.shell {
+  box-sizing: border-box;
+  max-width: 42rem;
+  margin: 12vh auto;
+  padding: 2rem;
+  background: white;
+  border-radius: 1rem;
+  box-shadow: 0 0.5rem 2rem rgb(23 32 51 / 10%);
+}
+
+.privacy {
+  display: block;
+  margin: 2rem 0;
+}
+
+button {
+  padding: 0.7rem 1rem;
+}
